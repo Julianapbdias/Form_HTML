@@ -3,7 +3,7 @@
 
 <img src="formhtml.jpg" alt="FormHTML_image">
 
-Exercício realizado em HTML para criar um LP de apresentação.
+Exercício realizado em HTML para criar um Formulário.
 ## 🔧 Funçoes (opcional)
 
 ### Função 01:
